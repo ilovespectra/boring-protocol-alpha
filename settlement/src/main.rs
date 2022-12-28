@@ -1,3 +1,5 @@
+// Monitors VPN data consumption and calculates BOP rewards
+
 use std::env;
 use std::fs::File;
 use std::io::{BufRead, BufReader};
