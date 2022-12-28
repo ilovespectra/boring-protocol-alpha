@@ -1,3 +1,5 @@
+// Validates BOP payments 
+
 extern crate solana_sdk;
 
 use solana_sdk::{
